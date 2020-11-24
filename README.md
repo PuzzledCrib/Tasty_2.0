@@ -1,4 +1,5 @@
-# [Icons Example](https://docs.expo.io/versions/latest/guides/icons/)
+# App recetas tasty
+# Referido desde https://github.com/Braghoick/Tasty_App
 
 <p>
   <!-- iOS -->
